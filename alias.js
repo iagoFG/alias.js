@@ -1,6 +1,6 @@
 /// alias.js: simple aliases to get shortcuts of frequent used actions without all the boilderplate for simple projects
 /// @author info@iagoFG.com
-/// @license LGPL 2.1
+/// @license MPL-2.0
 
 (function() {
 	
